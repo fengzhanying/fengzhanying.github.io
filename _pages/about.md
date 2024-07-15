@@ -42,7 +42,19 @@ My research interest includes .
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">scTIM</div><img src='images/scTIM.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**scTIM**:[scTIM: seeking cell-type-indicative marker from single cell RNA-seq data by consensus optimization]https://academic.oup.com/bioinformatics/article/36/8/2474/5679774)
+***Zhanying Feng***, Zhana Duren, Ziyi Xiong, Sijia Wang, Fan Liu, and Wing Hung Wong, Yong Wang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ELF</div><img src='images/ELF.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**ELF**:[ELF: Extract Landmark Features By Optimizing Topology Maintenance, Redundancy, and Specificity](https://ieeexplore.ieee.org/document/8382248)
+***Zhanying Feng*** and Yong Wang
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
