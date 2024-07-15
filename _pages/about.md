@@ -72,13 +72,16 @@ Shengquan Chen, Qiao Liu, Xuejian Cui, Zhanying Feng, Chunquan Li, Xiaowo Wang, 
 Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, Zhanying Feng, Ouzhuluobu, Chaoying Cui, Kai Liu, Bin Zhou, Xuerui Zeng, Liya Li, Tianyun Wang, Yong Wang, Chao Zhang, Shuhua Xu, Xuebin Qi, and Bing Su <br>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 
+- *2021.09* 
+
+# 📖 Employments
+- *2023.09 - now*, Department of Statistics of Stanford, Postdoctoral fellow, advised by Prof. Wing Hung Wong. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09 - 2023.06*, Academy of Mathematics and System Science of CAS, Doctor of Science, advised by Prof. Yong Wang. 
+- *2013.09 - 2017.06*, Nankai University, Bachelor of Science, Boling Class. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*, 
+- *2021.03*, 
