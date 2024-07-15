@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhanying Feng"
+title                    : "Zhanying Feng （冯占营）"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "fengzhanying/fengzhanying.github.io"
 google_scholar_stats_use_cdn : true
