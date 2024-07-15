@@ -77,7 +77,7 @@ Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying 
 - *2021.10* 
 - *2021.09* 
 
-# 📖 Employments
+# 💼 Employments
 - *2023.09 - now*, Department of Statistics of Stanford, Postdoctoral fellow, advised by Prof. Wing Hung Wong. 
 
 # 📖 Educations
