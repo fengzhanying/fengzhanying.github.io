@@ -28,12 +28,12 @@ My research interest includes .
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpecVar</div><img src='images/SpecVar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Heritability enrichment in context-specific regulatory networks improves phenotype-relevant tissue identification](https://elifesciences.org/articles/82535)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+***Zhanying Feng***, Zhana Duren, Jingxue Xin, Qiuyue Yuan, Yaoxi He, Bing Su, and Wing Hung Wong, Yong Wang
 
 </div>
 </div>
