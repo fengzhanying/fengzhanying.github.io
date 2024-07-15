@@ -30,11 +30,15 @@ My research interest includes .
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpecVar</div><img src='images/SpecVar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Heritability enrichment in context-specific regulatory networks improves phenotype-relevant tissue identification](https://elifesciences.org/articles/82535)
-
+**SpecVar**:[Heritability enrichment in context-specific regulatory networks improves phenotype-relevant tissue identification](https://elifesciences.org/articles/82535)
 ***Zhanying Feng***, Zhana Duren, Jingxue Xin, Qiuyue Yuan, Yaoxi He, Bing Su, and Wing Hung Wong, Yong Wang
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">hReg-CNCC</div><img src='images/hReg-CNCC.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**hReg-CNCC**:[hReg-CNCC reconstructs a regulatory network in human cranial neural crest cells and annotates variants in a developmental context](https://www.nature.com/articles/s42003-021-01970-0)
+***Zhanying Feng***, Zhana Duren, Ziyi Xiong, Sijia Wang, Fan Liu, and Wing Hung Wong, Yong Wang
 </div>
 </div>
 
