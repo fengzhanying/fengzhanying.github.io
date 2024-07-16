@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhanying Feng (冯占营)"
-description              : "This is homepage of Zhanying Feng"
+description              : "<center>This is homepage of Zhanying Feng</center>"
 repository               : "fengzhanying/fengzhanying.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "<center>Zhanying Feng <br> (冯占营)</center>"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "<center>Stanford University</center>"
-  location         : "<center>Palo Alto, CA, USA</center>"
+  location         : "Palo Alto, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=KX-LAXsAAAAJ"
