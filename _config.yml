@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhanying Feng"
+  name             : "<center>Zhanying Feng <br> (冯占营)</center>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Stanford University"
-  location         : "Palo Alto, CA, USA"
+  bio              : "<center>Stanford University</center>"
+  location         : "<center>Palo Alto, CA, USA</center>"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=KX-LAXsAAAAJ"
