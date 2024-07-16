@@ -75,8 +75,11 @@ Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying 
 . Vol 33 (19), 4037-4051. (2023) <br>
 
 # 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09* 
+- *2023.06*, Dean Scholarship of Chinese Academy of Science
+- *2021.09*, National Scholarship
+- *2018.09*, Saudi Aramco Scholarship
+- *2016.12*, “Rixin” Scholarship of “Chern Class”
+- *2016.09*, National Encouragement Scholarship
 
 # 💼 Employments
 - *2023.09 - now*, Department of Statistics of Stanford, Postdoctoral fellow, advised by Prof. Wing Hung Wong. 
@@ -86,5 +89,4 @@ Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying 
 - *2013.09 - 2017.06*, Nankai University, Bachelor of Science, Boling Class. 
 
 # 💬 Invited Talks
-- *2021.06*, 
-- *2021.03*, 
+- *2023.06*
