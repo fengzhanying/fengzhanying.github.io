@@ -50,28 +50,29 @@ My research interest includes .
 </div>
 
 **ELF**:[ELF: Extract Landmark Features By Optimizing Topology Maintenance, Redundancy, and Specificity](https://ieeexplore.ieee.org/document/8382248) <br>
-***Zhanying Feng*** and Yong Wang. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. Volume: 17, Issue: 2, 411-421 (2018). <br>
+***Zhanying Feng*** and Yong Wang. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. Vol 17 (2), 411-421. (2018). <br>
 <br>
 **COVID-19**:[Human Genetic Variants Associated with COVID-19 Severity are Enriched in Immune and Epithelium Regulatory Networks](https://link.springer.com/article/10.1007/s43657-022-00066-x) <br>
-***Zhanying Feng***, Xianwen Ren, Zhana Duren, and Yong Wang. *Phenomics*. 1-15 (2022). <br>
+***Zhanying Feng***, Xianwen Ren, Zhana Duren, and Yong Wang. *Phenomics*. Vol 2, 389–403. (2022). <br>
 <br>
 **Brain**:[Comparison of chromatin accessibility landscapes during early development of prefrontal cortex between rhesus macaque and human](https://www.nature.com/articles/s41467-022-31403-3) <br>
-Xuelong Yao, Zongyang Lu, ***Zhanying Feng***, Lei Gao, Xin Zhou, Min Li, Suijuan Zhong, Qian Wu, Zhenbo Liu, Haofeng Zhang, Zeyuan Liu, Lizhi Yi, Tao Zhou, Xudong Zhao, Jun Zhang, Yong Wang, Xingxu Huang, Xiaoqun Wang and Jiang Liu. *Nature communications*. vol 13 (1), 1-15 (2022). br>
+Xuelong Yao, Zongyang Lu, ***Zhanying Feng***, Lei Gao, Xin Zhou, Min Li, Suijuan Zhong, Qian Wu, Zhenbo Liu, Haofeng Zhang, Zeyuan Liu, Lizhi Yi, Tao Zhou, Xudong Zhao, Jun Zhang, Yong Wang, Xingxu Huang, Xiaoqun Wang and Jiang Liu. *Nature communications*. Vol 13 (1), 1-15. (2022). <br>
 <br>
 **CGWAS**:[Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9) <br>
-Ziyi Xiong, Xingjian Gao, Yan Chen, **Zhanying Feng**, Siyu Pan, Haojie Lu, Andre G. Uitterlinden, Tamar Nijsten, Arfan Ikram, Fernando Rivadeneira, Mohsen Ghanbari, Yong Wang, Manfred Kayser and Fan Liu. *Nature Communications*. Vol. 13, 7832 (2022). br>
+Ziyi Xiong, Xingjian Gao, Yan Chen, **Zhanying Feng**, Siyu Pan, Haojie Lu, Andre G. Uitterlinden, Tamar Nijsten, Arfan Ikram, Fernando Rivadeneira, Mohsen Ghanbari, Yong Wang, Manfred Kayser and Fan Liu. *Nature Communications*. Vol. 13, 7832. (2022). br>
 <br>
 **RE-GOA**:[Annotating regulatory elements by heterogeneous network embedding](https://academic.oup.com/bioinformatics/article/38/10/2899/6553660) <br>
-Yurun Lu, **Zhanying Feng**, Songmao Zhang, Yong Wang. *Bioinformatics*. Vol 38 (10), 2899-2911 (2022).<br>
+Yurun Lu, **Zhanying Feng**, Songmao Zhang, Yong Wang. *Bioinformatics*. Vol 38 (10), 2899-2911. (2022).<br>
 <br>
 **vPECA**:[Chromatin accessibility landscape and regulatory network of high-altitude hypoxia adaptation](https://www.nature.com/articles/s41467-020-18638-8) <br>
-Jingxue Xin, Hui Zhang, Yaoxi He, Zhana Duren, Caijuan Bai, Lang Chen, Xin Luo, Dong-Sheng Yan, Chaoyu Zhang, Xiang Zhu, Qiuyue Yuan, **Zhanying Feng**, Chaoying Cui, Xuebin Qi, Ouzhuluobu, Wing Hung Wong, Yong Wang & Bing Su. *Nature Communications*. vol. 11: 1-20 (2020). <br>
+Jingxue Xin, Hui Zhang, Yaoxi He, Zhana Duren, Caijuan Bai, Lang Chen, Xin Luo, Dong-Sheng Yan, Chaoyu Zhang, Xiang Zhu, Qiuyue Yuan, **Zhanying Feng**, Chaoying Cui, Xuebin Qi, Ouzhuluobu, Wing Hung Wong, Yong Wang & Bing Su. *Nature Communications*. Vol 11, 1-20. (2020). <br>
 <br>
 **OpenAnnotate**:[OpenAnnotate: a web server to annotate the chromatin accessibility of genomic regions](https://academic.oup.com/nar/article/49/W1/W483/6276912) <br>
-Shengquan Chen, Qiao Liu, Xuejian Cui, **Zhanying Feng**, Chunquan Li, Xiaowo Wang, Xuegong Zhang, Yong Wang, Rui Jiang. *Nucleic Acids Research*. Vol 49, Issue W1, Pages W483-W490, (2021). br>
+Shengquan Chen, Qiao Liu, Xuejian Cui, **Zhanying Feng**, Chunquan Li, Xiaowo Wang, Xuegong Zhang, Yong Wang, Rui Jiang. *Nucleic Acids Research*. Vol 49 (W1), W483-W490, (2021). br>
 <br>
-**Tibetan adaption**:[Polygenic adaptation leads to a higher reproductive fitness of native Tibetans at high altitude](https://www.sciencedirect.com/science/article/pii/S0960982223010643) <br>
-Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying Feng**, Ouzhuluobu, Chaoying Cui, Kai Liu, Bin Zhou, Xuerui Zeng, Liya Li, Tianyun Wang, Yong Wang, Chao Zhang, Shuhua Xu, Xuebin Qi, and Bing Su <br>
+**Tibetan adaption**:[Polygenic adaptation leads to a higher reproductive fitness of native Tibetans at high altitude](https://www.cell.com/current-biology/abstract/S0960-9822(23)01064-3) <br>
+Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying Feng**, Ouzhuluobu, Chaoying Cui, Kai Liu, Bin Zhou, Xuerui Zeng, Liya Li, Tianyun Wang, Yong Wang, Chao Zhang, Shuhua Xu, Xuebin Qi, and Bing Su. *Current Biology*
+. Vol 33 (19), 4037-4051. (2023) <br>
 
 # 🎖 Honors and Awards
 - *2021.10* 
