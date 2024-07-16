@@ -68,7 +68,7 @@ Yurun Lu, **Zhanying Feng**, Songmao Zhang, Yong Wang. *Bioinformatics*. Vol 38 
 Jingxue Xin, Hui Zhang, Yaoxi He, Zhana Duren, Caijuan Bai, Lang Chen, Xin Luo, Dong-Sheng Yan, Chaoyu Zhang, Xiang Zhu, Qiuyue Yuan, **Zhanying Feng**, Chaoying Cui, Xuebin Qi, Ouzhuluobu, Wing Hung Wong, Yong Wang & Bing Su. *Nature Communications*. Vol 11, 1-20. (2020). <br>
 <br>
 **OpenAnnotate**:[OpenAnnotate: a web server to annotate the chromatin accessibility of genomic regions](https://academic.oup.com/nar/article/49/W1/W483/6276912) <br>
-Shengquan Chen, Qiao Liu, Xuejian Cui, **Zhanying Feng**, Chunquan Li, Xiaowo Wang, Xuegong Zhang, Yong Wang, Rui Jiang. *Nucleic Acids Research*. Vol 49 (W1), W483-W490, (2021). br>
+Shengquan Chen, Qiao Liu, Xuejian Cui, **Zhanying Feng**, Chunquan Li, Xiaowo Wang, Xuegong Zhang, Yong Wang, Rui Jiang. *Nucleic Acids Research*. Vol 49 (W1), W483-W490, (2021). <br>
 <br>
 **Tibetan adaption**:[Polygenic adaptation leads to a higher reproductive fitness of native Tibetans at high altitude](https://www.cell.com/current-biology/abstract/S0960-9822(23)01064-3) <br>
 Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying Feng**, Ouzhuluobu, Chaoying Cui, Kai Liu, Bin Zhou, Xuerui Zeng, Liya Li, Tianyun Wang, Yong Wang, Chao Zhang, Shuhua Xu, Xuebin Qi, and Bing Su. *Current Biology*
