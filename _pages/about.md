@@ -85,8 +85,8 @@ Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying 
 - *2023.09 - now*, Department of Statistics of Stanford, Postdoctoral fellow, advised by Prof. Wing Hung Wong. 
 
 # 📖 Educations
-- *2017.09 - 2023.06*, Academy of Mathematics and System Science of CAS, Doctor of Science, advised by Prof. Yong Wang. 
-- *2013.09 - 2017.06*, Nankai University, Bachelor of Science, Boling Class. 
+- *2017.09 - 2023.06*, Academy of Mathematics and System Science of CAS, Ph.D of Operational Research and Cybernetics, advised by Prof. Yong Wang. 
+- *2013.09 - 2017.06*, Nankai University, BS of Mathematics, Boling Class. 
 
 # 💬 Invited Talks
 - *2023.06*
