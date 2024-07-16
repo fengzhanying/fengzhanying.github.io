@@ -31,7 +31,7 @@ My research interest includes .
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpecVar</div><img src='images/SpecVar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **SpecVar**:[Heritability enrichment in context-specific regulatory networks improves phenotype-relevant tissue identification](https://elifesciences.org/articles/82535) <br>
-***Zhanying Feng***, Zhana Duren, Jingxue Xin, Qiuyue Yuan, Yaoxi He, Bing Su, and Wing Hung Wong, Yong Wang
+***Zhanying Feng***, Zhana Duren, Jingxue Xin, Qiuyue Yuan, Yaoxi He, Bing Su, and Wing Hung Wong, Yong Wang. *eLife* 11:e82535 (2022)
 </div>
 </div>
 
