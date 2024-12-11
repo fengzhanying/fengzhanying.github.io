@@ -21,7 +21,7 @@ Zhanying Feng is a dedicated researcher specializing in computational biology an
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 cTOP (combinatorial TF Oriented Program) is published in **Genome Research** along with it application in sika deer and is available at [https://github.com/AMSSwanglab/cTOP](https://github.com/AMSSwanglab/cTOP)!
+- *2024.11*: &nbsp;🎉🎉 cTOP (combinatorial TF Oriented Program) is published in ***Genome Research*** along with it application in sika deer and is available at [https://github.com/AMSSwanglab/cTOP](https://github.com/AMSSwanglab/cTOP)!
 
 # 📝 Publications 
 
