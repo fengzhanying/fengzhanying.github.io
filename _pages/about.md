@@ -30,7 +30,7 @@ My research interest includes .
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpecVar</div><img src='images/cTOP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **cTOP**: [High-quality sika deer omics data and integrative analysis reveal genic and cellular regulation of antler regeneration](https://genome.cshlp.org/content/early/2024/11/13/gr.279448.124) <br>
-Zihe Li\#, Ziyu Xu\#, Lei Zhu\#, Tao Qin\#, Jinrui Ma\#, ***Zhanying Feng\#***, Huishan Yue, Qing Guan, Botong Zhou, Ge Han, Guokun Zhang, Chunyi Li, Shuaijun Jia, Qiang Qiu, Dingjun Hao, Yong Wang and Wen Wang. *Genome Research* (2024)
+Zihe Li<sup>\#</sup>, Ziyu Xu<sup>\#</sup>, Lei Zhu<sup>\#</sup>, Tao Qin<sup>\#</sup>, Jinrui Ma<sup>\#</sup>, ***Zhanying Feng<sup>\#</sup>***, Huishan Yue, Qing Guan, Botong Zhou, Ge Han, Guokun Zhang, Chunyi Li, Shuaijun Jia, Qiang Qiu, Dingjun Hao, Yong Wang and Wen Wang. *Genome Research* (2024)
 </div>
 </div>
 
