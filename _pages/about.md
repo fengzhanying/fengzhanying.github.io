@@ -23,10 +23,16 @@ My research interest includes .
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉  
-- *2022.02*: &nbsp;🎉🎉 
+- *2024.11*: &nbsp;🎉🎉 cTOP (combinatorial TF Oriented Program) is published in **Genome Research** along with it application in sika deer and is available at [https://github.com/AMSSwanglab/cTOP](https://github.com/AMSSwanglab/cTOP)!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpecVar</div><img src='images/cTOP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**cTOP**: [High-quality sika deer omics data and integrative analysis reveal genic and cellular regulation of antler regeneration](https://genome.cshlp.org/content/early/2024/11/13/gr.279448.124) <br>
+Zihe Li\#, Ziyu Xu\#, Lei Zhu\#, Tao Qin\#, Jinrui Ma\#, ***Zhanying Feng\#***, Huishan Yue, Qing Guan, Botong Zhou, Ge Han, Guokun Zhang, Chunyi Li, Shuaijun Jia, Qiang Qiu, Dingjun Hao, Yong Wang and Wen Wang. *Genome Research* (2024)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpecVar</div><img src='images/SpecVar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
