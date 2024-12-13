@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑🏻‍💼 About me
-Zhanying Feng is a dedicated researcher specializing in computational biology and bioinformatics, with a focus on understanding the regulatory mechanisms underlying cellular processes. His work encompasses developing innovative methods for analyzing single-cell ATAC-seq data, identifying context-specific regulons (cRegulons), and exploring transcription factor (TF) and target gene (TG) interactions. He is also interested in leveraging advanced embedding algorithms like CellSpace and utilizing tools such as PECA2 and CSI to uncover cell type landscapes and developmental pathways. Zhanying's contributions extend to benchmarking studies and method comparisons, demonstrating a commitment to refining and validating analytical approaches. His work bridges computational innovation and biological insights, advancing the understanding of cellular heterogeneity and gene regulation.
+Zhanying Feng is a dedicated researcher specializing in computational biology and bioinformatics, with a focus on understanding the regulatory mechanisms underlying cellular processes. His work encompasses developing innovative methods.
 
 
 # 🔥 News
