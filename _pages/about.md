@@ -63,7 +63,7 @@ Zihe Li<sup>\#</sup>, Ziyu Xu<sup>\#</sup>, Lei Zhu<sup>\#</sup>, Tao Qin<sup>\#
 Xuelong Yao, Zongyang Lu, ***Zhanying Feng***, Lei Gao, Xin Zhou, Min Li, Suijuan Zhong, Qian Wu, Zhenbo Liu, Haofeng Zhang, Zeyuan Liu, Lizhi Yi, Tao Zhou, Xudong Zhao, Jun Zhang, Yong Wang, Xingxu Huang, Xiaoqun Wang and Jiang Liu. *Nature communications*. Vol 13 (1), 1-15. (2022). <br>
 <br>
 **CGWAS**: [Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9) <br>
-Ziyi Xiong, Xingjian Gao, Yan Chen, **Zhanying Feng**, Siyu Pan, Haojie Lu, Andre G. Uitterlinden, Tamar Nijsten, Arfan Ikram, Fernando Rivadeneira, Mohsen Ghanbari, Yong Wang, Manfred Kayser and Fan Liu. *Nature Communications*. Vol. 13, 7832. (2022). br>
+Ziyi Xiong, Xingjian Gao, Yan Chen, **Zhanying Feng**, Siyu Pan, Haojie Lu, Andre G. Uitterlinden, Tamar Nijsten, Arfan Ikram, Fernando Rivadeneira, Mohsen Ghanbari, Yong Wang, Manfred Kayser and Fan Liu. *Nature Communications*. Vol. 13, 7832. (2022). <br>
 <br>
 **RE-GOA**: [Annotating regulatory elements by heterogeneous network embedding](https://academic.oup.com/bioinformatics/article/38/10/2899/6553660) <br>
 Yurun Lu, **Zhanying Feng**, Songmao Zhang, Yong Wang. *Bioinformatics*. Vol 38 (10), 2899-2911. (2022).<br>
