@@ -68,6 +68,9 @@ Ziyi Xiong, Xingjian Gao, Yan Chen, **Zhanying Feng**, Siyu Pan, Haojie Lu, Andr
 **RE-GOA**: [Annotating regulatory elements by heterogeneous network embedding](https://academic.oup.com/bioinformatics/article/38/10/2899/6553660) <br>
 Yurun Lu, **Zhanying Feng**, Songmao Zhang, Yong Wang. *Bioinformatics*. Vol 38 (10), 2899-2911. (2022).<br>
 <br>
+**CGMformer**: [A pretrained transformer model for decoding individual glucose dynamics from continuous glucose monitoring data](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf039/8005967) <br>
+Yurun Lu, Dan Liu, Zhongming Liang, Rui Liu, Pei Chen, Yitong Liu, Jiachen Li, **Zhanying Feng**, Lei M Li, Bin Sheng, Weiping Jia, Luonan Chen, Huating Li, Yong Wang. *National Science Review*. nwaf039. (2025).<br>
+<br>
 **vPECA**: [Chromatin accessibility landscape and regulatory network of high-altitude hypoxia adaptation](https://www.nature.com/articles/s41467-020-18638-8) <br>
 Jingxue Xin, Hui Zhang, Yaoxi He, Zhana Duren, Caijuan Bai, Lang Chen, Xin Luo, Dong-Sheng Yan, Chaoyu Zhang, Xiang Zhu, Qiuyue Yuan, **Zhanying Feng**, Chaoying Cui, Xuebin Qi, Ouzhuluobu, Wing Hung Wong, Yong Wang & Bing Su. *Nature Communications*. Vol 11, 1-20. (2020). <br>
 <br>
