@@ -26,6 +26,13 @@ Zhanying Feng is a dedicated researcher specializing in computational biology an
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">cTOP</div><img src='images/cRegulon.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**cTOP**: [Modeling combinatorial regulation from single-cell multi-omics provides regulatory units underpinning cell type landscape using cRegulon](https://github.com/SUwonglab/cRegulon) <br>
+***Zhanying Feng***, Xi Chen, Zhana Duren, Jingxue Xin, Hao Miao, Qiuyue Yuan, and Yong Wang, Wing Hung Wong. *Genome Biology*  (2025)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">cTOP</div><img src='images/cTOP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **cTOP**: [High-quality sika deer omics data and integrative analysis reveal genic and cellular regulation of antler regeneration](https://genome.cshlp.org/content/35/1/188.full) <br>
