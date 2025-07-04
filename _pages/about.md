@@ -20,7 +20,7 @@ redirect_from:
 My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
 1. Utilizing single-cell and multi-omics technologies, I aim to understand how these regulatory mechanisms define cell types and govern processes like tissue regeneration;
 2. With genome-wide regulatory network, another key area of interest is to improve relevant tissue identification;
-3. With regulatory networks along with their combinatorial property, we aim to build a causal regulatory chain: genotype &rarr molecule network &rarr combinatorial modules &rarr relevant tissue &rarr phenotype.
+3. With regulatory networks along with their combinatorial property, we aim to build a causal regulatory chain: genotype &#8594 molecule network &#8594 combinatorial modules &#8594 relevant tissue &#8594 phenotype.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 cRegulon (combinatorial Regulon) is published in ***Genome Biology*** and its software is freely available at [https://github.com/SUwonglab/cRegulon](https://github.com/SUwonglab/cRegulon)!
@@ -37,7 +37,7 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">cTOP</div><img src='images/cTOP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**cTOP**: [High-quality sika deer omics data and integrative analysis reveal genic and cellular regulation of antler regeneration](https://genome.cshlp.org/content/35/1/188.full) <br>
+**cRegulon**: [High-quality sika deer omics data and integrative analysis reveal genic and cellular regulation of antler regeneration](https://genome.cshlp.org/content/35/1/188.full) <br>
 Zihe Li<sup>\#</sup>, Ziyu Xu<sup>\#</sup>, Lei Zhu<sup>\#</sup>, Tao Qin<sup>\#</sup>, Jinrui Ma<sup>\#</sup>, ***Zhanying Feng<sup>\#</sup>***, Huishan Yue, Qing Guan, Botong Zhou, Ge Han, Guokun Zhang, Chunyi Li, Shuaijun Jia, Qiang Qiu, Dingjun Hao, Yong Wang and Wen Wang. *Genome Research* 35: 188-201 (2024)
 </div>
 </div>
