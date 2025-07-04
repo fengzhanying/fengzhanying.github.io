@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🧑🏻‍💼 About me
 My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
-1. Utilizing single-cell and multi-omics technologies, I aim to understand how these regulatory mechanisms define cell types and govern processes like tissue regeneration;
-2. With genome-wide regulatory network, another key area of interest is to improve relevant tissue identification;
-3. With regulatory networks along with their combinatorial property, we aim to build a causal regulatory chain: genotype → molecule network → combinatorial modules → relevant tissues → phenotype.
+1. Utilizing single-cell and multi-omics technologies, I aim to understand how these **regulatory mechanisms and their combinatorial effects** define cell types and govern processes like tissue regeneration;
+2. With genome-wide regulatory network, another key area of interest is to improve **relevant tissue identification**;
+3. With regulatory networks along with their combinatorial property, we aim to build a **causal regulatory chain: genotype → molecule network → combinatorial modules → relevant tissues → phenotype**.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 cRegulon (combinatorial Regulon) is published in ***Genome Biology*** and its software is freely available at [https://github.com/SUwonglab/cRegulon](https://github.com/SUwonglab/cRegulon)!
