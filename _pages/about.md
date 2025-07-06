@@ -23,7 +23,7 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
 3. With regulatory networks along with their combinatorial property, we aim to build a **causal regulatory chain: genotype → molecule network → combinatorial modules → relevant tissues → phenotype**.
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 cRegulon (combinatorial Regulon) is published in ***Genome Biology*** and its software is freely available at [https://github.com/SUwonglab/cRegulon](https://github.com/SUwonglab/cRegulon)!
+- *2025.07*: &nbsp;🎉🎉 cRegulon (combinatorial Regulon) is published in ***Genome Biology*** and its software is freely available at [https://github.com/SUwonglab/cRegulon](https://github.com/SUwonglab/cRegulon)!
 - *2024.11*: &nbsp;🎉🎉 cTOP (combinatorial TF Oriented Program) is published in ***Genome Research*** along with its application in sika deer and is available at [https://github.com/AMSSwanglab/cTOP](https://github.com/AMSSwanglab/cTOP)!
 
 # 📝 Publications 
