@@ -18,7 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🧑🏻‍💼 About me
 My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">G2P</div><img src='images/G2P.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
+      # 🧑🏻‍💼 About me
+      My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
+      <div class="badge">G2P</div>
+
+      <!-- 图片 -->
+      <img src='images/G2P.png' alt="sym" style="max-width: 100%; display: block; margin: 20px 0;">
+
+      <!-- 下方文字 -->
+      <div class="caption">This is a caption</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    ...正文内容...
+  </div>
+</div>
+
 1. Utilizing single-cell and multi-omics technologies, I aim to understand how these **regulatory mechanisms and their combinatorial effects** define cell types and govern processes like tissue regeneration;
 2. With genome-wide regulatory network, another key area of interest is to improve **relevant tissue identification**;
 3. With regulatory networks along with their combinatorial property, we aim to build a **causal regulatory chain: genotype → molecule network → combinatorial modules → relevant tissues → phenotype**.
