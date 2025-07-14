@@ -20,10 +20,11 @@ redirect_from:
 My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="height: 300px;">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
       <!-- 图片 -->
-      <img src='images/G2P.png' alt="sym" style="max-width: 100%; display: block; margin: 20px 0;">
+      <img src='images/G2P.png' alt="sym" style="width: auto; max-width: 80%; display: block; margin: 20px auto;">
+      
       <!-- 下方文字 -->
       <div class="caption">Genotype to phenotype mappings</div>
     </div>
