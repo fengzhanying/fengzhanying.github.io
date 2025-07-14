@@ -22,19 +22,12 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
-      # 🧑🏻‍💼 About me
-      My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
-      <div class="badge">G2P</div>
-
       <!-- 图片 -->
       <img src='images/G2P.png' alt="sym" style="max-width: 100%; display: block; margin: 20px 0;">
-
       <!-- 下方文字 -->
-      <div class="caption">This is a caption</div>
+      <div class="caption">Genotype to phenotype mappings</div>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    ...正文内容...
   </div>
 </div>
 
