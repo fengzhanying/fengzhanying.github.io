@@ -28,7 +28,6 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
       <div class="caption">Genotype to phenotype mappings</div>
     </div>
   </div>
-  </div>
 </div>
 
 1. Utilizing single-cell and multi-omics technologies, I aim to understand how these **regulatory mechanisms and their combinatorial effects** define cell types and govern processes like tissue regeneration;
