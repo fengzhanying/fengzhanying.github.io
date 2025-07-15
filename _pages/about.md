@@ -18,10 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🧑🏻‍💼 About me
 My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 180%;">
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 200%;">
       <img src="images/G2P.png" alt="sym" style="max-width: 100%; height: auto; transform: scale(1.4) translateX(180px); transform-origin: center;">
     </div>
   </div>
