@@ -19,13 +19,14 @@ redirect_from:
 # 🧑🏻‍💼 About me
 My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 100%;">
-      <img src="images/G2P.png" alt="sym" style="transform: scale(1.5); transform-origin: top left;">
-    </div>
-  </div>
-</div>
+<p style="display: flex; align-items: center;">
+  My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping,
+  emphasizing the essential role of gene regulation and combinatorial regulation in this process:
+  
+  <span style="display: inline-block; transform: scale(1.5); transform-origin: center; vertical-align: middle; margin-left: 10px;">
+    <img src="images/G2P.png" alt="sym" style="display: block;">
+  </span>
+</p>
 
 1. Utilizing single-cell and multi-omics technologies, I aim to understand how these **regulatory mechanisms and their combinatorial effects** define cell types and govern processes like tissue regeneration;
 2. With genome-wide regulatory network, another key area of interest is to improve **relevant tissue identification**;
