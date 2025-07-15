@@ -22,9 +22,9 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 180%;">
-      <img src="images/G2P.png" alt="sym" style="max-width: 100%; height: auto; transform: scale(1.5) translateX(180px); transform-origin: center;">
-      <div class="caption">Genotype to phenotype mappings style="transform: translateX(180px); transform-origin: center;</div>
+      <img src="images/G2P.png" alt="sym" style="max-width: 100%; height: auto; transform: scale(1.4) translateX(180px); transform-origin: center;">
     </div>
+    <div class="caption">Genotype to phenotype mappings;</div>
   </div>
 </div>
 
