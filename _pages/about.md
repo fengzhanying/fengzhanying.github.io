@@ -23,7 +23,7 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
   <div class='paper-box-image'>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
       <!-- 图片 -->
-      <img src="images/G2P.png" alt="sym" style="transform: scale(2.0) translateX(200px); transform-origin: top left;">
+      <img src="images/G2P.png" alt="sym" style="transform: scale(2.0) translateX(100px); transform-origin: top left;">
       <!-- 下方文字 -->
       <div class="caption">Genotype to phenotype mappings</div>
     </div>
