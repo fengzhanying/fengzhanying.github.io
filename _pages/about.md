@@ -21,9 +21,8 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
-      <!-- 图片 -->
-      <img src="images/G2P.png" alt="sym" style="transform: scale(1.50) translateX(100px); transform-origin: top left;">
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 100%;">
+      <img src="images/G2P.png" alt="sym" style="transform: scale(1.5); transform-origin: top left;">
     </div>
   </div>
 </div>
