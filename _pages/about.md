@@ -39,7 +39,7 @@ My academic pursuits are centered around mathematically modeling genotype-to-phe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">cRegulon</div><img src='images/cRegulon.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **cRegulon**: [Modeling combinatorial regulation from single-cell multi-omics provides regulatory units underpinning cell type landscape using cRegulon](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03680-w) <br>
-***Zhanying Feng***, Xi Chen, Zhana Duren, Jingxue Xin, Hao Miao, Qiuyue Yuan, and Yong Wang, Wing Hung Wong. *Genome Biology*  (2025)
+***Zhanying Feng***, Xi Chen, Zhana Duren, Jingxue Xin, Hao Miao, Qiuyue Yuan, and Yong Wang, Wing Hung Wong. *Genome Biology* 26:220  (2025)
 </div>
 </div>
 
