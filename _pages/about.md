@@ -29,8 +29,9 @@ At its core, my research addresses a central challenge in applied mathematics: h
 </div>
 <br>
 Specifically, the solutions to two questions are in pressing need: <br>
--  **(1) How cellular molecules (TFs, REs, TGs) work together to form modular combinatorial regulation?**
--  **(2) How to build a causal model to predict phenotypes from genotypes, with their intermediate regulatory effect on molecular regulatory modules?**
+-  **How cellular molecules (TFs, REs, TGs) work together to form modular combinatorial regulation?**
+-  **How to build a causal model to predict phenotypes from genotypes, with their intermediate regulatory effect on molecular regulatory modules?**
+<br>
 By combining statistical inference, network theory, and deep learning, I seek to build quantitative models that bridge sequence-level information to large-scale gene regulatory dynamics and phenotypic diversity.
 
 # 🔥 News
