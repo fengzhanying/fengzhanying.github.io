@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑🏻‍💼 About me
-My academic pursuits are centered around mathematically modeling genotype-to-phenotype mapping, emphasizing the essential role of gene regulation and combinatorial regulation in this process: <br>
+My research lies at the interface of mathematical optimization, machine learning, and computational biology, aiming to uncover the mathematical principles underlying human gene regulation from genotypes to phenotypes (G2P). G2P is a biological system that exhibits extraordinary complexity, where genetic variants exert influence on cellular molecules, such as transcription factors (TFs), regulatory elements (REs), and target genes (TGs), then interact with environmental factors through nonlinear and combinatorial rules to control human phenotypes. My goal is to develop mathematical models and learning frameworks that can reveal, predict, and generalize these regulatory mechanisms from high-dimensional, noisy data such as DNA sequences, single-cell chromatin accessibility and gene expression profiles, and phenotypes. <br>
+At its core, my research addresses a central challenge in applied mathematics: how to infer interpretable structure and causal relationships from complex, stochastic systems.  <br>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 100%;">
