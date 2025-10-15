@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🧑🏻‍💼 About me
 My research lies at the interface of mathematical optimization, machine learning, and computational biology, aiming to uncover the mathematical principles underlying human gene regulation from genotypes to phenotypes (G2P). G2P is a biological system that exhibits extraordinary complexity, where genetic variants exert influence on cellular molecules, such as transcription factors (TFs), regulatory elements (REs), and target genes (TGs), then interact with environmental factors through nonlinear and combinatorial rules to control human phenotypes. My goal is to develop mathematical models and learning frameworks that can reveal, predict, and generalize these regulatory mechanisms from high-dimensional, noisy data such as DNA sequences, single-cell chromatin accessibility and gene expression profiles, and phenotypes. <br>
+<br>
 At its core, my research addresses a central challenge in applied mathematics: how to infer interpretable structure and causal relationships from complex, stochastic systems.  <br>
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -27,9 +28,10 @@ At its core, my research addresses a central challenge in applied mathematics: h
   </div>
 </div>
 
-1. Utilizing single-cell and multi-omics technologies, I aim to understand how these **regulatory mechanisms and their combinatorial effects** define cell types and govern processes like tissue regeneration;
-2. With genome-wide regulatory network, another key area of interest is to improve **relevant tissue identification**;
-3. With regulatory networks along with their combinatorial property, we aim to build a **causal regulatory chain: genotype → molecule network → combinatorial modules → relevant tissues → phenotype**.
+Specifically, the solutions to two questions are in pressing need: <br>
+(1) how cellular molecules (TFs, REs, TGs) work together to form modular combinatorial regulation? <br>
+(2) how to build a causal model to predict phenotypes from genotypes, with their intermediate regulatory effect on molecular regulatory modules? <br>
+By combining statistical inference, network theory, and deep learning, I seek to build quantitative models that bridge sequence-level information to large-scale gene regulatory dynamics and phenotypic diversity.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 cRegulon (combinatorial Regulon) is published in ***Genome Biology*** and its software is freely available at [https://github.com/SUwonglab/cRegulon](https://github.com/SUwonglab/cRegulon)!
