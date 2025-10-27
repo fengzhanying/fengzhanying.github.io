@@ -118,7 +118,8 @@ Yaoxi He, Yongbo Guo, Wangshan Zheng, Tian Yue, Hui Zhang, Bin Wang, **Zhanying 
 - *2013.09 - 2017.06*, Nankai University, BS of Mathematics, Boling Class. 
 
 # 💬 Invited Talks
-- *2023.07*, Contributed Talk (top abstract winner) in [NetBioMed 2022](https://sites.google.com/channing.harvard.edu/netbiomed2022/home).
+- *2023.08*, Invited Talk in [Single-Cell Plus – Data Science Challenges in Single-Cell Research, Banff International Research Station, 2023](https://www.birs.ca/events/2023/5-day-workshops/23w5090).
+- *2022.07*, Contributed Talk (top abstract winner) in [NetBioMed 2022](https://sites.google.com/channing.harvard.edu/netbiomed2022/home).
 
 # 💬 Softwares
 
