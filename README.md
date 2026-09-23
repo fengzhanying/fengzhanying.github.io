@@ -70,3 +70,30 @@ Some examples:
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+
+## Personal homepage / 双语主页
+
+The homepage is rendered in Chinese at `/` and English at `/en/`.
+The language links work without JavaScript; `assets/js/language.js` additionally
+preserves section anchors when switching languages and resolves legacy anchors.
+There is no automatic language redirect: `/` always opens in Chinese.
+
+- `_data/home.json`: Chinese and English profile text, news, appointments,
+  education, awards, and software descriptions. Keep both languages in sync.
+- `_config.yml`: shared email, portrait, Google Scholar and GitHub links.
+- `_includes/home/publications.md`: shared publication list, retaining original
+  paper titles, author lists and links.
+- `_layouts/academic.html`: shared page structure, language metadata and navigation.
+- `assets/css/academic.css`: responsive styling for desktop, tablet and mobile.
+
+Build and preview with the existing GitHub Pages dependencies:
+
+```sh
+bundle install
+bundle exec jekyll serve --host 127.0.0.1
+```
+
+Check `/` and `/en/`, the language switch at `#publications`, and narrow screens.
+The previous `/about/` and `/about.html` URLs redirect to the Chinese homepage.
+The earlier Stanford appointment records its known starting date only; update
+its ending date when confirmed.
