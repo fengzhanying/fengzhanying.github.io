@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhanying Feng (冯占营)"
-description              : "This is homepage of Zhanying Feng"
+url: "https://fengzhanying.github.io"
+baseurl: ""
+title                    : "冯占营 | Zhanying Feng"
+description              : "冯占营，中国科学院数学与系统科学研究院优青副研究员"
 repository               : "fengzhanying/fengzhanying.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhanying Feng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Stanford University"
-  location         : "Palo Alto, CA, USA"
+  bio              : "中国科学院数学与系统科学研究院 · 优青副研究员"
+  location         : "中国，北京"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=KX-LAXsAAAAJ"
-  email            : "zyfeng@stanford.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=KX-LAXsAAAAJ"
+  email            : "zyfeng@amss.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

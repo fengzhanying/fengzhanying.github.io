@@ -1,0 +1,256 @@
+{
+  "zh": {
+    "lang": "zh-CN",
+    "locale": "zh_CN",
+    "name": "冯占营",
+    "other_name": "Zhanying Feng",
+    "title": "冯占营 | 中国科学院数学与系统科学研究院",
+    "description": "冯占营，中国科学院数学与系统科学研究院优青副研究员。研究方向为数学优化、机器学习与计算生物学，聚焦基因调控及从基因型到表型的建模。",
+    "role": "优青副研究员",
+    "role_detail": "Tenure-track associate professor",
+    "institution": "中国科学院数学与系统科学研究院",
+    "location": "中国 · 北京",
+    "home": "个人主页",
+    "skip": "跳转到正文",
+    "language": "选择语言",
+    "email": "联系邮箱",
+    "scholar": "谷歌学术",
+    "research_label": "数学 · 数据 · 生命",
+    "headline": "探索基因调控的数学原理",
+    "intro": "我现任中国科学院数学与系统科学研究院优青副研究员（Tenure-track associate professor）。我的研究处于数学优化、机器学习与计算生物学的交叉领域，致力于理解从基因型到表型（G2P）的基因调控机制。",
+    "research_text": "遗传变异通过转录因子（TF）、调控元件（RE）和靶基因（TG）等分子，并与环境因素相互作用，共同影响表型。我结合统计推断、网络理论与深度学习，从 DNA 序列、单细胞染色质可及性和基因表达等高维噪声数据中，构建可解释、可预测的数学模型。",
+    "questions": [
+      "细胞分子如何协同形成模块化的组合调控？",
+      "如何通过分子调控模块，建立从基因型预测表型的因果模型？"
+    ],
+    "figure_alt": "从基因型到表型（G2P）的基因调控研究框架",
+    "figure_caption": "从序列与遗传变异，到分子调控网络，再到细胞状态与表型。",
+    "nav": [
+      "关于我",
+      "研究方向",
+      "最新动态",
+      "学术论文",
+      "学术经历",
+      "软件工具"
+    ],
+    "news_title": "最新动态",
+    "news": [
+      [
+        "2026.09",
+        "加入中国科学院数学与系统科学研究院，任优青副研究员。"
+      ],
+      [
+        "2025.07",
+        "cRegulon 发表于 Genome Biology，软件已开源。"
+      ],
+      [
+        "2024.11",
+        "cTOP 及其在梅花鹿鹿茸再生中的应用发表于 Genome Research，软件已开源。"
+      ]
+    ],
+    "research_title": "研究方向",
+    "tags": [
+      "数学优化",
+      "机器学习",
+      "计算生物学",
+      "基因调控"
+    ],
+    "publications_title": "学术论文",
+    "publications_note": "论文题名及作者信息保留原文，点击题名查看论文。",
+    "experience_title": "学术经历",
+    "employment_title": "工作经历",
+    "education_title": "教育背景",
+    "jobs": [
+      [
+        "2026.09 — 至今",
+        "优青副研究员",
+        "中国科学院数学与系统科学研究院",
+        "Tenure-track associate professor"
+      ],
+      [
+        "2023.09 起",
+        "博士后（此前）",
+        "斯坦福大学统计系",
+        "合作导师：Wing Hung Wong 教授"
+      ]
+    ],
+    "education": [
+      [
+        "2017.09 — 2023.06",
+        "博士 · 运筹学与控制论",
+        "中国科学院数学与系统科学研究院",
+        "导师：王勇教授"
+      ],
+      [
+        "2013.09 — 2017.06",
+        "学士 · 数学",
+        "南开大学 · 伯苓班",
+        ""
+      ]
+    ],
+    "awards_title": "荣誉奖励",
+    "awards": [
+      [
+        "2023.06",
+        "中国科学院院长奖学金"
+      ],
+      [
+        "2021.09",
+        "国家奖学金"
+      ],
+      [
+        "2018.09",
+        "沙特阿美奖学金"
+      ],
+      [
+        "2016.12",
+        "“陈省身班”日新奖学金"
+      ],
+      [
+        "2016.09",
+        "国家励志奖学金"
+      ]
+    ],
+    "talks_title": "学术报告",
+    "talk_labels": [
+      "受邀报告",
+      "大会报告（优秀摘要）"
+    ],
+    "software_title": "软件工具",
+    "software_note": "用于单细胞多组学与组合基因调控研究的开源工具。",
+    "software_descriptions": [
+      "从单细胞多组学数据中识别组合调控单元，解析细胞类型景观。",
+      "识别以转录因子组合为核心的调控程序，研究细胞调控机制。"
+    ],
+    "code": "查看源代码",
+    "footer": "冯占营 · 中国科学院数学与系统科学研究院",
+    "back_top": "返回顶部"
+  },
+  "en": {
+    "lang": "en",
+    "locale": "en_US",
+    "name": "Zhanying Feng",
+    "other_name": "冯占营",
+    "title": "Zhanying Feng | AMSS, Chinese Academy of Sciences",
+    "description": "Zhanying Feng is a tenure-track associate professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, working on mathematical optimization, machine learning, and computational biology.",
+    "role": "Tenure-track associate professor",
+    "role_detail": "优青副研究员",
+    "institution": "Academy of Mathematics and Systems Science, Chinese Academy of Sciences",
+    "location": "Beijing, China",
+    "home": "Homepage",
+    "skip": "Skip to content",
+    "language": "Select language",
+    "email": "Email",
+    "scholar": "Google Scholar",
+    "research_label": "Mathematics · Data · Life",
+    "headline": "The mathematics of gene regulation",
+    "intro": "I am a tenure-track associate professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. My research lies at the intersection of mathematical optimization, machine learning, and computational biology, with a focus on gene regulation from genotypes to phenotypes (G2P).",
+    "research_text": "Genetic variants influence transcription factors (TFs), regulatory elements (REs), and target genes (TGs), which interact with environmental factors to shape phenotypes. I combine statistical inference, network theory, and deep learning to build interpretable, predictive mathematical models from high-dimensional, noisy data, including DNA sequences, single-cell chromatin accessibility, and gene expression.",
+    "questions": [
+      "How do cellular molecules work together to form modular combinatorial regulation?",
+      "How can we build causal models that predict phenotypes from genotypes through molecular regulatory modules?"
+    ],
+    "figure_alt": "Genotype-to-phenotype (G2P) gene regulation research framework",
+    "figure_caption": "From sequences and genetic variants to regulatory networks, cell states, and phenotypes.",
+    "nav": [
+      "About",
+      "Research",
+      "News",
+      "Publications",
+      "Experience",
+      "Software"
+    ],
+    "news_title": "News",
+    "news": [
+      [
+        "2026.09",
+        "Joined the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, as a tenure-track associate professor."
+      ],
+      [
+        "2025.07",
+        "cRegulon is published in Genome Biology, with open-source software available."
+      ],
+      [
+        "2024.11",
+        "cTOP and its application to sika deer antler regeneration are published in Genome Research, with open-source software available."
+      ]
+    ],
+    "research_title": "Research",
+    "tags": [
+      "Mathematical optimization",
+      "Machine learning",
+      "Computational biology",
+      "Gene regulation"
+    ],
+    "publications_title": "Publications",
+    "publications_note": "Click a title to read the paper.",
+    "experience_title": "Academic experience",
+    "employment_title": "Appointments",
+    "education_title": "Education",
+    "jobs": [
+      [
+        "2026.09 — Present",
+        "Tenure-track associate professor",
+        "Academy of Mathematics and Systems Science, Chinese Academy of Sciences",
+        ""
+      ],
+      [
+        "From 2023.09",
+        "Postdoctoral fellow (previous appointment)",
+        "Department of Statistics, Stanford University",
+        "Advisor: Prof. Wing Hung Wong"
+      ]
+    ],
+    "education": [
+      [
+        "2017.09 — 2023.06",
+        "Ph.D. in Operations Research and Cybernetics",
+        "Academy of Mathematics and Systems Science, Chinese Academy of Sciences",
+        "Advisor: Prof. Yong Wang"
+      ],
+      [
+        "2013.09 — 2017.06",
+        "B.S. in Mathematics",
+        "Nankai University · Boling Class",
+        ""
+      ]
+    ],
+    "awards_title": "Honors & awards",
+    "awards": [
+      [
+        "2023.06",
+        "Dean’s Scholarship, Chinese Academy of Sciences"
+      ],
+      [
+        "2021.09",
+        "National Scholarship"
+      ],
+      [
+        "2018.09",
+        "Saudi Aramco Scholarship"
+      ],
+      [
+        "2016.12",
+        "“Rixin” Scholarship, Chern Class"
+      ],
+      [
+        "2016.09",
+        "National Encouragement Scholarship"
+      ]
+    ],
+    "talks_title": "Talks",
+    "talk_labels": [
+      "Invited talk",
+      "Contributed talk (top abstract winner)"
+    ],
+    "software_title": "Software",
+    "software_note": "Open-source tools for single-cell multi-omics and combinatorial gene regulation.",
+    "software_descriptions": [
+      "Identify combinatorial regulatory units from single-cell multi-omics to understand the cell type landscape.",
+      "Identify combinatorial TF-oriented programs to study cellular regulatory mechanisms."
+    ],
+    "code": "View source code",
+    "footer": "Zhanying Feng · AMSS, Chinese Academy of Sciences",
+    "back_top": "Back to top"
+  }
+}
