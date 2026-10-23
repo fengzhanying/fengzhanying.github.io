@@ -118,14 +118,32 @@
       "大会报告（优秀摘要）"
     ],
     "software_title": "软件工具",
-    "software_note": "用于单细胞多组学与组合基因调控研究的开源工具。",
-    "software_descriptions": [
-      "从单细胞多组学数据中识别组合调控单元，解析细胞类型景观。",
-      "识别以转录因子组合为核心的调控程序，研究细胞调控机制。"
-    ],
+    "software_note": "面向序列功能预测、发育多组学与组合基因调控研究的软件工具与分析资源。",
     "code": "查看源代码",
     "footer": "冯占营 · 中国科学院数学与系统科学研究院",
-    "back_top": "返回顶部"
+    "back_top": "返回顶部",
+    "software": [
+      {
+        "name": "cRegulon",
+        "url": "https://github.com/SUwonglab/cRegulon",
+        "description": "从单细胞多组学数据中识别组合调控单元，解析细胞类型景观。"
+      },
+      {
+        "name": "cTOP",
+        "url": "https://github.com/AMSSwanglab/cTOP",
+        "description": "识别以转录因子组合为核心的调控程序，研究细胞调控机制。"
+      },
+      {
+        "name": "Primformer",
+        "url": "https://github.com/fengzhanying/Primformer",
+        "description": "结合 Monkey ENCODE 数据的灵长类基础模型，用于人类与猴 DNA 序列活性预测。"
+      },
+      {
+        "name": "MonkeyRegulome",
+        "url": "https://github.com/fengzhanying/MonkeyRegulome",
+        "description": "猕猴发育多组学图谱及分析流程，涵盖基因调控网络构建和调控元件功能预测，辅助研究人类器官发育。"
+      }
+    ]
   },
   "en": {
     "lang": "en",
@@ -144,14 +162,15 @@
     "email": "Email",
     "scholar": "Google Scholar",
     "research_label": "Mathematics · Data · Life",
-    "headline": "The mathematics of gene regulation",
-    "intro": "I am a tenure-track associate professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. My research lies at the intersection of mathematical optimization, machine learning by large language model, and computational biology, with a focus on gene regulation from genotypes to phenotypes (G2P).",
-    "research_text": "Genetic variants influence transcription factors (TFs), regulatory elements (REs), and target genes (TGs), which interact with environmental factors to shape phenotypes. I combine statistical inference, network theory, and deep learning to build interpretable, predictive mathematical models from high-dimensional, noisy data, including DNA sequences, single-cell chromatin accessibility, and gene expression.",
+    "headline": "The mathematics of genotype-to-phenotype regulation",
+    "intro": "I am a tenure-track associate professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. My research lies at the intersection of mathematical optimization, machine learning with large language models, and computational biology, with a focus on understanding regulatory mechanisms linking genotypes to phenotypes.",
+    "research_text": "Genetic variants influence transcription factors (TFs), regulatory elements (REs), and target genes (TGs), which interact with environmental factors to shape phenotypes. I combine statistical inference, network theory, deep learning, and large models to build interpretable, predictive mathematical models from high-dimensional, noisy data, including DNA sequences, single-cell chromatin accessibility, and gene expression.",
     "questions": [
-      "How do cellular molecules work together to form modular combinatorial regulation?",
-      "How can we build causal models that predict phenotypes from genotypes through molecular regulatory modules?"
+      "Sequence-to-function models: How can we model and predict how DNA sequences and genetic variants control cellular molecular functions?",
+      "Combinatorial regulatory models: How can we model combinatorial regulation to quantitatively describe the coordinated actions of cellular molecules?",
+      "Genotype-to-phenotype models: How can we build causal mathematical models that predict phenotypes from genotypes through molecular regulation?"
     ],
-    "figure_alt": "Genotype-to-phenotype (G2P) gene regulation research framework",
+    "figure_alt": "Genotype-to-phenotype gene regulation research framework",
     "figure_caption": "From sequences and genetic variants to regulatory networks, cell states, and phenotypes.",
     "nav": [
       "About",
@@ -197,7 +216,7 @@
       ],
       [
         "From 2023.09",
-        "Postdoctoral fellow (previous appointment)",
+        "Postdoctoral fellow",
         "Department of Statistics, Stanford University",
         "Advisor: Prof. Wing Hung Wong"
       ]
@@ -245,13 +264,31 @@
       "Contributed talk (top abstract winner)"
     ],
     "software_title": "Software",
-    "software_note": "Open-source tools for single-cell multi-omics and combinatorial gene regulation.",
-    "software_descriptions": [
-      "Identify combinatorial regulatory units from single-cell multi-omics to understand the cell type landscape.",
-      "Identify combinatorial TF-oriented programs to study cellular regulatory mechanisms."
-    ],
+    "software_note": "Software and analysis resources for sequence function prediction, developmental multi-omics, and combinatorial gene regulation.",
     "code": "View source code",
     "footer": "Zhanying Feng · AMSS, Chinese Academy of Sciences",
-    "back_top": "Back to top"
+    "back_top": "Back to top",
+    "software": [
+      {
+        "name": "cRegulon",
+        "url": "https://github.com/SUwonglab/cRegulon",
+        "description": "Identify combinatorial regulatory units from single-cell multi-omics to understand the cell type landscape."
+      },
+      {
+        "name": "cTOP",
+        "url": "https://github.com/AMSSwanglab/cTOP",
+        "description": "Identify combinatorial TF-oriented programs to study cellular regulatory mechanisms."
+      },
+      {
+        "name": "Primformer",
+        "url": "https://github.com/fengzhanying/Primformer",
+        "description": "A Monkey ENCODE-enhanced primate foundation model for predicting DNA sequence activity in humans and monkeys."
+      },
+      {
+        "name": "MonkeyRegulome",
+        "url": "https://github.com/fengzhanying/MonkeyRegulome",
+        "description": "A developmental multi-omics atlas in macaques with analysis workflows for gene regulatory network construction and regulatory element function prediction, supporting studies of human organ development."
+      }
+    ]
   }
 }
