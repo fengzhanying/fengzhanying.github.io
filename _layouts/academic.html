@@ -85,7 +85,16 @@
     <section id="software">
       <div class="section-heading"><span aria-hidden="true">05</span><h2>{{ t.software_title }}</h2></div>
       <p class="section-note">{{ t.software_note }}</p>
-      <div class="software-grid"><article><span class="software-icon" aria-hidden="true">{ }</span><h3>cRegulon</h3><p>{{ t.software_descriptions[0] }}</p><a href="https://github.com/SUwonglab/cRegulon">{{ t.code }} ↗</a></article><article><span class="software-icon" aria-hidden="true">{ }</span><h3>cTOP</h3><p>{{ t.software_descriptions[1] }}</p><a href="https://github.com/AMSSwanglab/cTOP">{{ t.code }} ↗</a></article></div>
+      <div class="software-grid">
+        {% for software in t.software %}
+        <article>
+          <span class="software-icon" aria-hidden="true">{ }</span>
+          <h3>{{ software.name }}</h3>
+          <p>{{ software.description }}</p>
+          <a href="{{ software.url }}">{{ t.code }} ↗</a>
+        </article>
+        {% endfor %}
+      </div>
     </section>
   </main>
 </div>
