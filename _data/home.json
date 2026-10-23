@@ -118,7 +118,7 @@
       "大会报告（优秀摘要）"
     ],
     "software_title": "软件工具",
-    "software_note": "面向序列功能预测、发育多组学与组合基因调控研究的软件工具与分析资源。",
+    "software_note": "面向序列功能预测、多组学、基因调控与复杂性状研究的软件工具与分析资源。",
     "code": "查看源代码",
     "footer": "冯占营 · 中国科学院数学与系统科学研究院",
     "back_top": "返回顶部",
@@ -129,9 +129,19 @@
         "description": "从单细胞多组学数据中识别组合调控单元，解析细胞类型景观。"
       },
       {
-        "name": "cTOP",
-        "url": "https://github.com/AMSSwanglab/cTOP",
-        "description": "识别以转录因子组合为核心的调控程序，研究细胞调控机制。"
+        "name": "SpecVar",
+        "url": "https://github.com/fengzhanying/SpecVar",
+        "description": "估计复杂性状的遗传力富集，识别表型相关组织并分析性状间的关联。"
+      },
+      {
+        "name": "hReg-CNCC",
+        "url": "https://github.com/fengzhanying/hReg-CNCC",
+        "description": "通过共识优化构建人类颅神经嵴细胞调控网络，用于面部性状相关遗传变异及保守调控元件注释。"
+      },
+      {
+        "name": "scTIM",
+        "url": "https://github.com/fengzhanying/scTIM",
+        "description": "通过共识优化从单细胞 RNA-seq 数据中识别细胞类型指示性标记基因。"
       },
       {
         "name": "Primformer",
@@ -264,7 +274,7 @@
       "Contributed talk (top abstract winner)"
     ],
     "software_title": "Software",
-    "software_note": "Software and analysis resources for sequence function prediction, developmental multi-omics, and combinatorial gene regulation.",
+    "software_note": "Software and analysis resources for sequence function prediction, multi-omics, gene regulation, and complex trait research.",
     "code": "View source code",
     "footer": "Zhanying Feng · AMSS, Chinese Academy of Sciences",
     "back_top": "Back to top",
@@ -275,9 +285,19 @@
         "description": "Identify combinatorial regulatory units from single-cell multi-omics to understand the cell type landscape."
       },
       {
-        "name": "cTOP",
-        "url": "https://github.com/AMSSwanglab/cTOP",
-        "description": "Identify combinatorial TF-oriented programs to study cellular regulatory mechanisms."
+        "name": "SpecVar",
+        "url": "https://github.com/fengzhanying/SpecVar",
+        "description": "Estimate heritability enrichment, identify phenotype-relevant tissues, and analyze relationships between complex traits."
+      },
+      {
+        "name": "hReg-CNCC",
+        "url": "https://github.com/fengzhanying/hReg-CNCC",
+        "description": "Construct a human cranial neural crest cell regulatory network through consensus optimization to annotate facial trait-associated variants and conserved regulatory elements."
+      },
+      {
+        "name": "scTIM",
+        "url": "https://github.com/fengzhanying/scTIM",
+        "description": "Identify cell-type-indicative marker genes from single-cell RNA-seq data through consensus optimization."
       },
       {
         "name": "Primformer",
