@@ -21,7 +21,7 @@
     "research_text": "遗传变异通过转录因子（TF）、调控元件（RE）和靶基因（TG）等分子，并与环境因素相互作用，共同影响表型。结合统计推断、网络理论与深度学习、大模型，从 DNA 序列、单细胞染色质可及性和基因表达等高维噪声数据中，构建可解释、可预测的数学模型。",
     "questions": [
       "Sequence to function model: 如何建模预测DNA序列和遗传变异对细胞分子功能控制？",
-      "Combinatorial regulatory model: 如何建模组合调控定量描述细胞分子的协同作用？",
+      "Combinatorial regulation model: 如何建模组合调控定量描述细胞分子的协同作用？",
       "Genotype to phenotype model: 如何以分子调控为媒介，建立从基因型预测表型的因果数学模型？"
     ],
     "figure_alt": "从基因型到表型的基因调控研究框架",
@@ -124,6 +124,16 @@
     "back_top": "返回顶部",
     "software": [
       {
+        "name": "Primformer",
+        "url": "https://github.com/fengzhanying/Primformer",
+        "description": "结合 Monkey ENCODE 数据的灵长类基础模型，用于人类与猴 DNA 序列活性预测。"
+      },
+      {
+        "name": "MonkeyRegulome",
+        "url": "https://github.com/fengzhanying/MonkeyRegulome",
+        "description": "猕猴发育多组学图谱及分析流程，涵盖基因调控网络构建和调控元件功能预测，辅助研究人类器官发育。"
+      },
+      {
         "name": "cRegulon",
         "url": "https://github.com/SUwonglab/cRegulon",
         "description": "从单细胞多组学数据中识别组合调控单元，解析细胞类型景观。"
@@ -142,16 +152,6 @@
         "name": "scTIM",
         "url": "https://github.com/fengzhanying/scTIM",
         "description": "通过共识优化从单细胞 RNA-seq 数据中识别细胞类型指示性标记基因。"
-      },
-      {
-        "name": "Primformer",
-        "url": "https://github.com/fengzhanying/Primformer",
-        "description": "结合 Monkey ENCODE 数据的灵长类基础模型，用于人类与猴 DNA 序列活性预测。"
-      },
-      {
-        "name": "MonkeyRegulome",
-        "url": "https://github.com/fengzhanying/MonkeyRegulome",
-        "description": "猕猴发育多组学图谱及分析流程，涵盖基因调控网络构建和调控元件功能预测，辅助研究人类器官发育。"
       }
     ]
   },
@@ -177,7 +177,7 @@
     "research_text": "Genetic variants influence transcription factors (TFs), regulatory elements (REs), and target genes (TGs), which interact with environmental factors to shape phenotypes. I combine statistical inference, network theory, deep learning, and large models to build interpretable, predictive mathematical models from high-dimensional, noisy data, including DNA sequences, single-cell chromatin accessibility, and gene expression.",
     "questions": [
       "Sequence-to-function models: How can we model and predict how DNA sequences and genetic variants control cellular molecular functions?",
-      "Combinatorial regulatory models: How can we model combinatorial regulation to quantitatively describe the coordinated actions of cellular molecules?",
+      "Combinatorial regulation model: How can we model combinatorial regulation to quantitatively describe the coordinated actions of cellular molecules?",
       "Genotype-to-phenotype models: How can we build causal mathematical models that predict phenotypes from genotypes through molecular regulation?"
     ],
     "figure_alt": "Genotype-to-phenotype gene regulation research framework",
@@ -280,6 +280,16 @@
     "back_top": "Back to top",
     "software": [
       {
+        "name": "Primformer",
+        "url": "https://github.com/fengzhanying/Primformer",
+        "description": "A Monkey ENCODE-enhanced primate foundation model for predicting DNA sequence activity in humans and monkeys."
+      },
+      {
+        "name": "MonkeyRegulome",
+        "url": "https://github.com/fengzhanying/MonkeyRegulome",
+        "description": "A developmental multi-omics atlas in macaques with analysis workflows for gene regulatory network construction and regulatory element function prediction, supporting studies of human organ development."
+      },
+      {
         "name": "cRegulon",
         "url": "https://github.com/SUwonglab/cRegulon",
         "description": "Identify combinatorial regulatory units from single-cell multi-omics to understand the cell type landscape."
@@ -298,16 +308,6 @@
         "name": "scTIM",
         "url": "https://github.com/fengzhanying/scTIM",
         "description": "Identify cell-type-indicative marker genes from single-cell RNA-seq data through consensus optimization."
-      },
-      {
-        "name": "Primformer",
-        "url": "https://github.com/fengzhanying/Primformer",
-        "description": "A Monkey ENCODE-enhanced primate foundation model for predicting DNA sequence activity in humans and monkeys."
-      },
-      {
-        "name": "MonkeyRegulome",
-        "url": "https://github.com/fengzhanying/MonkeyRegulome",
-        "description": "A developmental multi-omics atlas in macaques with analysis workflows for gene regulatory network construction and regulatory element function prediction, supporting studies of human organ development."
       }
     ]
   }
